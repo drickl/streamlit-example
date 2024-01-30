@@ -1,4 +1,4 @@
 altair
 pandas
 streamlit
-streamlit-agraph
+streamlit_agraph
